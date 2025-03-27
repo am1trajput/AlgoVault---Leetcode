@@ -1,2 +1,2 @@
 # AlgoVault---Leetcode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
+A collection of my LeetCode solutions, designed to tackle algorithmic challenges and improve problem-solving skills. Explore a variety of problems and solutions to help you master data structures, algorithms, and coding techniques!
